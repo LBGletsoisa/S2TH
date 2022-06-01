@@ -5,4 +5,4 @@ import streamlit as st
 st.set_page_config(page_title="My Website", page_icon=":tada", layout="wide")
 st.subheader("Sensor 2")
 
-st.write("Sensor 2 in the basememt shaft control unit, has detetected temperatures greater than the threshold of 38℃")
+st.write("Sensor 2 in the basement shaft control unit, has detected temperatures greater than the threshold of 22℃")
